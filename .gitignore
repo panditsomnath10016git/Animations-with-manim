@@ -131,3 +131,4 @@ dmypy.json
 #Manim stuff
 Tex/
 /partial_movie_files
+*.mp4
