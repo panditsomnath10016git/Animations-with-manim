@@ -132,5 +132,4 @@ dmypy.json
 Tex/
 /partial_movie_files
 *.mp4
-*.txt
 *.tex
