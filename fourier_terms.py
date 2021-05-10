@@ -82,7 +82,9 @@ class PlottingGraphs(GraphScene):
                 print(N)
                 previous_func = get_func
                 previous_term = term_num
-                self.wait(1.4)
+                self.wait(1.3)
+      
+        self.wait(2)
 
     # 	def sqwave(self,x):
     # 		period =8.0
